@@ -1,6 +1,6 @@
 <!--
 Copyright IBM Corporation 2017.
-LICENSE: Apache License, Version 2.0
+LICENSE: Apache License, Version 2.0dddd
 -->
 <template>
 	<div>
